@@ -1,0 +1,17 @@
+/* src/styles/global.css */
+
+body {
+  background-image: url('D:/bookStoreApp-main (2)/Frontend/public/background.jpg');
+  background-size: cover; /* Ensure the background covers the entire page */
+  background-position: center; /* Center the background image */
+  background-attachment: fixed; /* Make the background image fixed */
+  margin: 0; /* Remove default margin */
+  font-family: Arial, sans-serif; /* Set a default font */
+}
+
+/* Optional: Additional styling for page content */
+.content {
+  padding: 20px; /* Adjust padding to fit your design */
+  background-color: rgba(255, 255, 255, 0.8); /* White background with some transparency */
+  border-radius: 8px; /* Optional: Rounded corners */
+}
